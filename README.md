@@ -31,6 +31,11 @@ This challenge is best coupled with Day 22 of Wes Bos's [Javascript30](https://j
 ### Fonts Used
 
 https://fonts.google.com/specimen/Inter
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 ### Colors used 
-
+#f3ebe3
+#f7b300
+#133416
